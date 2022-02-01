@@ -14,14 +14,9 @@ status-website:
   
   # baseUrl: /your-repo-name
   logoUrl: https://www.actionsales.com.ar/img/logo-action.svg
-  name: Action Sales
+
   introTitle: "En esta web se puede verificar los servicios de Action Sales"
-  introMessage:   
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
