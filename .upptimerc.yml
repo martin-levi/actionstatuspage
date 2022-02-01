@@ -12,7 +12,8 @@ sites:
 
 status-website:
   
-  # baseUrl: /your-repo-name
+  baseUrl: /actionstatuspage
+
   logoUrl: https://www.actionsales.com.ar/img/logo-action.svg
 
   introTitle: "En esta web se puede verificar los servicios de Action Sales"
