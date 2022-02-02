@@ -5,7 +5,8 @@ repo: actionstatuspage # The name of this repository
 sites:
   - name: Action Sales
     url: https://app.actionsales.com.ar
-  
+  - name: Action Route
+    url: https://actionroute.actionsales.com.ar/
 
 status-website:
   
